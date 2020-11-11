@@ -1,0 +1,3 @@
+name = "Ben"
+
+alert(name)
